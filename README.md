@@ -1,4 +1,5 @@
 # Random "lorem-ipsum" generator
 #####  using JavaScript, Html, CSS
 ##### following youtube: CodingAddict tutorial
-##### choose number of paragraphs to generate random lorem text
+##### choose the number of paragraphs you need,and generate random lorem text
+#### https://dzendzen.github.io/lorem-ipsum-generator/
